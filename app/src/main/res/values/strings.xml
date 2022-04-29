@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Digital_Survey_Swahili_App</string>
+    <string name="app_name">Digital Survey</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="takeoff">Takeoff</string>
+    <string name="landing">Landing</string>
+    <string name="rotate_left">Rotate Left</string>
+    <string name="rotate_right">Rotate Right</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="foward">Forward</string>
+    <string name="backward">Backward</string>
+    <string name="hover">Hover</string>
+    <string name="measure_ments">Measurements</string>
 </resources>

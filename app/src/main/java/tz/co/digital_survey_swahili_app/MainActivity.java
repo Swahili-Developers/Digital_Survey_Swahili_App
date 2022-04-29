@@ -10,7 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-//        Digital_Survey_Swahili_App We gonna use drone cameras to survey,drawing maps and measure distances of area of plots using android app
+        
     }
 }

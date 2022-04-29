@@ -7,4 +7,19 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+<!--    custom -->
+    <color name="green_blue">#00AA00</color>
+    <color name="accent">#21A5E6</color>
+    <color name="green">#00AA00</color>
+    <color name="buttonscolor">#0603C4</color>
+    <color name="colorbutton">#3C8239</color>
+    <color name="colorbody">#303030</color>
+    <color name="gray">#808080</color>
+    <color name="colorPrimary">#232325</color>
+    <color name="body">#2D2F31</color>
+    <color name="transparent">#00000000</color>
+    <color name="primary">#2C7490</color>
+    <color name="primaryDark">#21A5E6</color>
+
 </resources>
