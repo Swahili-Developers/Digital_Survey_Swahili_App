@@ -1,6 +1,6 @@
 # Digital_Survey_Swahili_App
 
-################################################ Anga ###################################################
+############### Anga #################
 
 We gonna use drone cameras to survey,drawing maps and measure distances of area of plots using android app
 
@@ -14,4 +14,4 @@ With GPS and Digital Compass enabled.
 
 We shall only test the AR Drone 2.0.
 
-################################################ Anga ###################################################
+############### Anga #################
